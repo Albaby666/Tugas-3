@@ -1,0 +1,53 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+
+h1, h2 {
+    color: #333;
+}
+
+/* CSS Selectors */
+.highlight {
+    color: red;
+}
+
+#unique {
+    background-color: yellow;
+}
+
+/* CSS Colors */
+.colored-text {
+    color: blue;
+}
+
+
+.background {
+    background-color: lightgray;
+    background-image: url('background.jpg');
+    background-size: cover;
+}
+
+
+.bordered {
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+
+.with-margin {
+    margin: 20px;
+}
+
+
+.with-padding {
+    padding: 20px;
+}
+
+
+.box {
+    height: 200px;
+    width: 200px;
+    background-color: lightblue;
+}
